@@ -1,0 +1,10 @@
+100000
+50000
+10000
+2000
+Class: 100000, Confidence: 0.46, Waktu: 0.6222372055053711
+Class: 100000, Confidence: 0.26, Waktu: 0.6280875205993652
+Class: 100000, Confidence: 0.29, Waktu: 0.6366844177246094
+Class: 100000, Confidence: 0.28, Waktu: 0.6364378929138184
+Class: 100000, Confidence: 0.25, Waktu: 0.6271958351135254
+Class: 100000, Confidence: 0.25, Waktu: 0.6236886978149414
